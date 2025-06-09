@@ -2024,22 +2024,22 @@
      
     </Hour>
     <Hour name="08:30-09:00">
-     
+     <Activity id="5"></Activity><Teacher name="Micah Sanchez"></Teacher><Subject name="EDUC 50"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="09:00-09:30">
-     
+     <Activity id="5"></Activity><Teacher name="Micah Sanchez"></Teacher><Subject name="EDUC 50"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="09:30-10:00">
-     
+     <Activity id="5"></Activity><Teacher name="Micah Sanchez"></Teacher><Subject name="EDUC 50"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="10:00-10:30">
-     
+     <Activity id="5"></Activity><Teacher name="Micah Sanchez"></Teacher><Subject name="EDUC 50"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="10:30-11:00">
-     
+     <Activity id="5"></Activity><Teacher name="Micah Sanchez"></Teacher><Subject name="EDUC 50"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="11:00-11:30">
-     
+     <Activity id="5"></Activity><Teacher name="Micah Sanchez"></Teacher><Subject name="EDUC 50"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="11:30-12:00">
      
@@ -2149,22 +2149,22 @@
      
     </Hour>
     <Hour name="16:00-16:30">
-     <Activity id="5"></Activity><Teacher name="Micah Sanchez"></Teacher><Subject name="EDUC 50"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="16:30-17:00">
-     <Activity id="5"></Activity><Teacher name="Micah Sanchez"></Teacher><Subject name="EDUC 50"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="17:00-17:30">
-     <Activity id="5"></Activity><Teacher name="Micah Sanchez"></Teacher><Subject name="EDUC 50"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="17:30-18:00">
-     <Activity id="5"></Activity><Teacher name="Micah Sanchez"></Teacher><Subject name="EDUC 50"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="18:00-18:30">
-     <Activity id="5"></Activity><Teacher name="Micah Sanchez"></Teacher><Subject name="EDUC 50"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="18:30-19:00">
-     <Activity id="5"></Activity><Teacher name="Micah Sanchez"></Teacher><Subject name="EDUC 50"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="19:00-19:30">
      
