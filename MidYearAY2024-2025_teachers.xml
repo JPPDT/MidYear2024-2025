@@ -331,22 +331,22 @@
      
     </Hour>
     <Hour name="08:00-08:30">
-     
+     <Activity id="23"></Activity><Subject name="EDUC 70"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSE-E 1-2"></Students>
     </Hour>
     <Hour name="08:30-09:00">
-     
+     <Activity id="23"></Activity><Subject name="EDUC 70"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSE-E 1-2"></Students>
     </Hour>
     <Hour name="09:00-09:30">
-     
+     <Activity id="23"></Activity><Subject name="EDUC 70"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSE-E 1-2"></Students>
     </Hour>
     <Hour name="09:30-10:00">
-     
+     <Activity id="23"></Activity><Subject name="EDUC 70"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSE-E 1-2"></Students>
     </Hour>
     <Hour name="10:00-10:30">
-     
+     <Activity id="23"></Activity><Subject name="EDUC 70"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSE-E 1-2"></Students>
     </Hour>
     <Hour name="10:30-11:00">
-     
+     <Activity id="23"></Activity><Subject name="EDUC 70"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSE-E 1-2"></Students>
     </Hour>
     <Hour name="11:00-11:30">
      
@@ -411,22 +411,22 @@
      
     </Hour>
     <Hour name="08:00-08:30">
-     
+     <Activity id="1"></Activity><Subject name="BSEM 21"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSEM 1-1"></Students>
     </Hour>
     <Hour name="08:30-09:00">
-     
+     <Activity id="1"></Activity><Subject name="BSEM 21"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSEM 1-1"></Students>
     </Hour>
     <Hour name="09:00-09:30">
-     
+     <Activity id="1"></Activity><Subject name="BSEM 21"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSEM 1-1"></Students>
     </Hour>
     <Hour name="09:30-10:00">
-     
+     <Activity id="1"></Activity><Subject name="BSEM 21"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSEM 1-1"></Students>
     </Hour>
     <Hour name="10:00-10:30">
-     
+     <Activity id="1"></Activity><Subject name="BSEM 21"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSEM 1-1"></Students>
     </Hour>
     <Hour name="10:30-11:00">
-     
+     <Activity id="1"></Activity><Subject name="BSEM 21"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSEM 1-1"></Students>
     </Hour>
     <Hour name="11:00-11:30">
      
@@ -488,25 +488,25 @@
      
     </Hour>
     <Hour name="07:30-08:00">
-     <Activity id="23"></Activity><Subject name="EDUC 70"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSE-E 1-2"></Students>
+     
     </Hour>
     <Hour name="08:00-08:30">
-     <Activity id="23"></Activity><Subject name="EDUC 70"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSE-E 1-2"></Students>
+     <Activity id="24"></Activity><Subject name="EDUC 70"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSE-E 1-2"></Students>
     </Hour>
     <Hour name="08:30-09:00">
-     <Activity id="23"></Activity><Subject name="EDUC 70"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSE-E 1-2"></Students>
+     <Activity id="24"></Activity><Subject name="EDUC 70"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSE-E 1-2"></Students>
     </Hour>
     <Hour name="09:00-09:30">
-     <Activity id="23"></Activity><Subject name="EDUC 70"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSE-E 1-2"></Students>
+     <Activity id="24"></Activity><Subject name="EDUC 70"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSE-E 1-2"></Students>
     </Hour>
     <Hour name="09:30-10:00">
-     <Activity id="23"></Activity><Subject name="EDUC 70"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSE-E 1-2"></Students>
+     <Activity id="24"></Activity><Subject name="EDUC 70"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSE-E 1-2"></Students>
     </Hour>
     <Hour name="10:00-10:30">
-     <Activity id="23"></Activity><Subject name="EDUC 70"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSE-E 1-2"></Students>
+     <Activity id="24"></Activity><Subject name="EDUC 70"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSE-E 1-2"></Students>
     </Hour>
     <Hour name="10:30-11:00">
-     
+     <Activity id="24"></Activity><Subject name="EDUC 70"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSE-E 1-2"></Students>
     </Hour>
     <Hour name="11:00-11:30">
      
@@ -521,37 +521,37 @@
      
     </Hour>
     <Hour name="13:00-13:30">
-     
+     <Activity id="2"></Activity><Subject name="BSEM 21"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSEM 1-1"></Students>
     </Hour>
     <Hour name="13:30-14:00">
-     
+     <Activity id="2"></Activity><Subject name="BSEM 21"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSEM 1-1"></Students>
     </Hour>
     <Hour name="14:00-14:30">
-     
+     <Activity id="2"></Activity><Subject name="BSEM 21"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSEM 1-1"></Students>
     </Hour>
     <Hour name="14:30-15:00">
-     
+     <Activity id="2"></Activity><Subject name="BSEM 21"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSEM 1-1"></Students>
     </Hour>
     <Hour name="15:00-15:30">
-     
+     <Activity id="2"></Activity><Subject name="BSEM 21"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSEM 1-1"></Students>
     </Hour>
     <Hour name="15:30-16:00">
-     <Activity id="1"></Activity><Subject name="BSEM 21"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSEM 1-1"></Students>
+     <Activity id="2"></Activity><Subject name="BSEM 21"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSEM 1-1"></Students>
     </Hour>
     <Hour name="16:00-16:30">
-     <Activity id="1"></Activity><Subject name="BSEM 21"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSEM 1-1"></Students>
+     
     </Hour>
     <Hour name="16:30-17:00">
-     <Activity id="1"></Activity><Subject name="BSEM 21"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSEM 1-1"></Students>
+     
     </Hour>
     <Hour name="17:00-17:30">
-     <Activity id="1"></Activity><Subject name="BSEM 21"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSEM 1-1"></Students>
+     
     </Hour>
     <Hour name="17:30-18:00">
-     <Activity id="1"></Activity><Subject name="BSEM 21"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSEM 1-1"></Students>
+     
     </Hour>
     <Hour name="18:00-18:30">
-     <Activity id="1"></Activity><Subject name="BSEM 21"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSEM 1-1"></Students>
+     
     </Hour>
     <Hour name="18:30-19:00">
      
@@ -568,22 +568,22 @@
      
     </Hour>
     <Hour name="07:30-08:00">
-     <Activity id="24"></Activity><Subject name="EDUC 70"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSE-E 1-2"></Students>
+     
     </Hour>
     <Hour name="08:00-08:30">
-     <Activity id="24"></Activity><Subject name="EDUC 70"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSE-E 1-2"></Students>
+     
     </Hour>
     <Hour name="08:30-09:00">
-     <Activity id="24"></Activity><Subject name="EDUC 70"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSE-E 1-2"></Students>
+     
     </Hour>
     <Hour name="09:00-09:30">
-     <Activity id="24"></Activity><Subject name="EDUC 70"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSE-E 1-2"></Students>
+     
     </Hour>
     <Hour name="09:30-10:00">
-     <Activity id="24"></Activity><Subject name="EDUC 70"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSE-E 1-2"></Students>
+     
     </Hour>
     <Hour name="10:00-10:30">
-     <Activity id="24"></Activity><Subject name="EDUC 70"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSE-E 1-2"></Students>
+     
     </Hour>
     <Hour name="10:30-11:00">
      
@@ -598,22 +598,22 @@
      
     </Hour>
     <Hour name="12:30-13:00">
-     <Activity id="2"></Activity><Subject name="BSEM 21"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSEM 1-1"></Students>
+     
     </Hour>
     <Hour name="13:00-13:30">
-     <Activity id="2"></Activity><Subject name="BSEM 21"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSEM 1-1"></Students>
+     
     </Hour>
     <Hour name="13:30-14:00">
-     <Activity id="2"></Activity><Subject name="BSEM 21"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSEM 1-1"></Students>
+     
     </Hour>
     <Hour name="14:00-14:30">
-     <Activity id="2"></Activity><Subject name="BSEM 21"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSEM 1-1"></Students>
+     
     </Hour>
     <Hour name="14:30-15:00">
-     <Activity id="2"></Activity><Subject name="BSEM 21"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSEM 1-1"></Students>
+     
     </Hour>
     <Hour name="15:00-15:30">
-     <Activity id="2"></Activity><Subject name="BSEM 21"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSEM 1-1"></Students>
+     
     </Hour>
     <Hour name="15:30-16:00">
      
@@ -689,10 +689,10 @@
      
     </Hour>
     <Hour name="14:00-14:30">
-     
+     <Activity id="17"></Activity><Subject name="BEEd 37"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 2-1"></Students>
     </Hour>
     <Hour name="14:30-15:00">
-     
+     <Activity id="17"></Activity><Subject name="BEEd 37"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 2-1"></Students>
     </Hour>
     <Hour name="15:00-15:30">
      <Activity id="17"></Activity><Subject name="BEEd 37"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 2-1"></Students>
@@ -707,10 +707,10 @@
      <Activity id="17"></Activity><Subject name="BEEd 37"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 2-1"></Students>
     </Hour>
     <Hour name="17:00-17:30">
-     <Activity id="17"></Activity><Subject name="BEEd 37"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 2-1"></Students>
+     
     </Hour>
     <Hour name="17:30-18:00">
-     <Activity id="17"></Activity><Subject name="BEEd 37"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 2-1"></Students>
+     
     </Hour>
     <Hour name="18:00-18:30">
      
@@ -1380,22 +1380,22 @@
      
     </Hour>
     <Hour name="08:30-09:00">
-     <Activity id="5"></Activity><Subject name="EDUC 50"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSE-E 1-2"></Students>
+     
     </Hour>
     <Hour name="09:00-09:30">
-     <Activity id="5"></Activity><Subject name="EDUC 50"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSE-E 1-2"></Students>
+     
     </Hour>
     <Hour name="09:30-10:00">
-     <Activity id="5"></Activity><Subject name="EDUC 50"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSE-E 1-2"></Students>
+     
     </Hour>
     <Hour name="10:00-10:30">
-     <Activity id="5"></Activity><Subject name="EDUC 50"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSE-E 1-2"></Students>
+     
     </Hour>
     <Hour name="10:30-11:00">
-     <Activity id="5"></Activity><Subject name="EDUC 50"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSE-E 1-2"></Students>
+     
     </Hour>
     <Hour name="11:00-11:30">
-     <Activity id="5"></Activity><Subject name="EDUC 50"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSE-E 1-2"></Students>
+     
     </Hour>
     <Hour name="11:30-12:00">
      
@@ -1505,22 +1505,22 @@
      
     </Hour>
     <Hour name="16:00-16:30">
-     
+     <Activity id="5"></Activity><Subject name="EDUC 50"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSE-E 1-2"></Students>
     </Hour>
     <Hour name="16:30-17:00">
-     
+     <Activity id="5"></Activity><Subject name="EDUC 50"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSE-E 1-2"></Students>
     </Hour>
     <Hour name="17:00-17:30">
-     
+     <Activity id="5"></Activity><Subject name="EDUC 50"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSE-E 1-2"></Students>
     </Hour>
     <Hour name="17:30-18:00">
-     
+     <Activity id="5"></Activity><Subject name="EDUC 50"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSE-E 1-2"></Students>
     </Hour>
     <Hour name="18:00-18:30">
-     
+     <Activity id="5"></Activity><Subject name="EDUC 50"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSE-E 1-2"></Students>
     </Hour>
     <Hour name="18:30-19:00">
-     
+     <Activity id="5"></Activity><Subject name="EDUC 50"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSE-E 1-2"></Students>
     </Hour>
     <Hour name="19:00-19:30">
      
@@ -1944,22 +1944,22 @@
      
     </Hour>
     <Hour name="08:30-09:00">
-     <Activity id="12"></Activity><Subject name="BEEd 29"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 2-1"></Students>
+     <Activity id="11"></Activity><Subject name="BEEd 29"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 2-1"></Students>
     </Hour>
     <Hour name="09:00-09:30">
-     <Activity id="12"></Activity><Subject name="BEEd 29"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 2-1"></Students>
+     <Activity id="11"></Activity><Subject name="BEEd 29"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 2-1"></Students>
     </Hour>
     <Hour name="09:30-10:00">
-     <Activity id="12"></Activity><Subject name="BEEd 29"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 2-1"></Students>
+     <Activity id="11"></Activity><Subject name="BEEd 29"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 2-1"></Students>
     </Hour>
     <Hour name="10:00-10:30">
-     <Activity id="12"></Activity><Subject name="BEEd 29"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 2-1"></Students>
+     <Activity id="11"></Activity><Subject name="BEEd 29"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 2-1"></Students>
     </Hour>
     <Hour name="10:30-11:00">
-     <Activity id="12"></Activity><Subject name="BEEd 29"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 2-1"></Students>
+     <Activity id="11"></Activity><Subject name="BEEd 29"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 2-1"></Students>
     </Hour>
     <Hour name="11:00-11:30">
-     <Activity id="12"></Activity><Subject name="BEEd 29"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 2-1"></Students>
+     <Activity id="11"></Activity><Subject name="BEEd 29"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 2-1"></Students>
     </Hour>
     <Hour name="11:30-12:00">
      
@@ -2051,31 +2051,31 @@
      
     </Hour>
     <Hour name="13:00-13:30">
-     
+     <Activity id="12"></Activity><Subject name="BEEd 29"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 2-1"></Students>
     </Hour>
     <Hour name="13:30-14:00">
-     
+     <Activity id="12"></Activity><Subject name="BEEd 29"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 2-1"></Students>
     </Hour>
     <Hour name="14:00-14:30">
-     
+     <Activity id="12"></Activity><Subject name="BEEd 29"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 2-1"></Students>
     </Hour>
     <Hour name="14:30-15:00">
-     <Activity id="11"></Activity><Subject name="BEEd 29"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 2-1"></Students>
+     <Activity id="12"></Activity><Subject name="BEEd 29"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 2-1"></Students>
     </Hour>
     <Hour name="15:00-15:30">
-     <Activity id="11"></Activity><Subject name="BEEd 29"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 2-1"></Students>
+     <Activity id="12"></Activity><Subject name="BEEd 29"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 2-1"></Students>
     </Hour>
     <Hour name="15:30-16:00">
-     <Activity id="11"></Activity><Subject name="BEEd 29"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 2-1"></Students>
+     <Activity id="12"></Activity><Subject name="BEEd 29"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 2-1"></Students>
     </Hour>
     <Hour name="16:00-16:30">
-     <Activity id="11"></Activity><Subject name="BEEd 29"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 2-1"></Students>
+     
     </Hour>
     <Hour name="16:30-17:00">
-     <Activity id="11"></Activity><Subject name="BEEd 29"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 2-1"></Students>
+     
     </Hour>
     <Hour name="17:00-17:30">
-     <Activity id="11"></Activity><Subject name="BEEd 29"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 2-1"></Students>
+     
     </Hour>
     <Hour name="17:30-18:00">
      
