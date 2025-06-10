@@ -63,13 +63,13 @@
 <Activity>
 	<Id>11</Id>
 	<Day>Monday</Day>
-	<Hour>08:30-09:00</Hour>
+	<Hour>13:00-13:30</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
 	<Id>12</Id>
 	<Day>Tuesday</Day>
-	<Hour>13:00-13:30</Hour>
+	<Hour>14:00-14:30</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
@@ -92,20 +92,20 @@
 </Activity>
 <Activity>
 	<Id>16</Id>
-	<Day>Tuesday</Day>
-	<Hour>12:00-12:30</Hour>
+	<Day>Wednesday</Day>
+	<Hour>17:00-17:30</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
 	<Id>17</Id>
 	<Day>Monday</Day>
-	<Hour>14:00-14:30</Hour>
+	<Hour>08:30-09:00</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
 	<Id>18</Id>
 	<Day>Tuesday</Day>
-	<Hour>08:00-08:30</Hour>
+	<Hour>09:00-09:30</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
